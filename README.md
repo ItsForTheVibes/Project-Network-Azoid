@@ -49,17 +49,6 @@ L'objectif est de construire une infrastructure réseau virtuelle, segmentée et
 
 > Les règles de pare-feu et l'isolation effective des réseaux restent à configurer et à tester.
 
-## Prochaines étapes
-
-1. Terminer les réseaux COMPTA, TECH, GUESTS et BACKUP.
-2. Configurer les règles de sécurité OPNsense.
-3. Installer Active Directory sur DC01.
-4. Configurer le serveur de fichiers FS01.
-5. Déployer Nextcloud et les applications Web.
-6. Mettre en place les sauvegardes et tester une restauration.
-7. Configurer le VPN WireGuard.
-8. Documenter les tests et préparer la démonstration finale.
-
 ## Avancement
 
 **Phase 1 : infrastructure réseau et pare-feu — en cours.**
