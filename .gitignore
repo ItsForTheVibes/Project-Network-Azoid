@@ -1,0 +1,28 @@
+
+# Virtual machines and installation images
+VMs/
+ISO/
+*.vdi
+*.vmdk
+*.vbox
+*.iso
+
+# Backups
+Backups/
+*.bak
+*.backup
+
+# Secrets and private keys
+*.key
+*.pem
+*.p12
+*.pfx
+*.ovpn
+*.conf.secret
+.env
+.env.*
+!*.example
+
+# Temporary files
+*.log
+*.tmp
